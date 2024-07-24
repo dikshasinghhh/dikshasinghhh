@@ -10,8 +10,8 @@
 
 📍I am Diksha from India, and I specialize in machine learning.
 . I enjoy learning new technologies and exploring the world of AI and data science.
-Some of the tools and frameworks I work with TensorFlow and scikit-learn.
+Some of the tools and frameworks I work with are TensorFlow and scikit-learn.
 - 🔭 working on building innovative solutions with machine learning. 
 - 🌱 I’m currently deepening my skills in ML frameworks and data science.
 - 📫 Reach me on ds9642@srmist.edu.in
-- ⚡I enjoy reading tech blogs and staying updated with the latest advancements in AI.
+- ⚡I enjoy reading tech blogs and staying updated with latest advancements.

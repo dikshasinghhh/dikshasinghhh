@@ -7,11 +7,13 @@
 </div>
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
 <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
-
-📍I am Diksha from India, and I specialize in machine learning.
-I enjoy learning new technologies and exploring the world of AI and data science.
-Some of the tools and frameworks I work with are TensorFlow and scikit-learn.
-- 🔭 working on building innovative solutions with machine learning. 
-- 🌱 I’m currently deepening my skills in ML frameworks and data science.
-- 📫 Reach me on ds9642@srmist.edu.in
-- ⚡I enjoy reading tech blogs and staying updated with latest advancements.
+<br>
+<br>
+<br>
+📍I am Diksha from India, and I specialize in machine learning.<br>
+I enjoy learning new technologies and exploring the world of AI and data science.<br>
+Some of the tools and frameworks I work with are TensorFlow and scikit-learn.<br>
+- 🔭 working on building innovative solutions with machine learning. <br>
+- 🌱 I’m currently deepening my skills in ML frameworks and data science.<br>
+- 📫 Reach me on ds9642@srmist.edu.in<br>
+- ⚡I enjoy reading tech blogs and staying updated with latest advancements.<br>

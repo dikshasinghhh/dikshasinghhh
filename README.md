@@ -13,5 +13,5 @@
 Some of the tools and frameworks I work with are TensorFlow and scikit-learn.
 - 🔭 working on building innovative solutions with machine learning. 
 - 🌱 I’m currently deepening my skills in ML frameworks and data science.
-- 📫 Reach me on ds9642@srmist.edu.in
+- 📫 Reach me on dikshaengr@gmail.com
 - ⚡I enjoy reading tech blogs and staying updated with latest advancements.

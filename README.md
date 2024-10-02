@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 50%; height: auto;" alt="Welcome to my Github Profile" />
   <br />
   <br />
- <img src="https://media.licdn.com/dms/image/C4E12AQHpykK2d73gCg/article-cover_image-shrink_720_1280/0/1636235813796?e=1727308800&v=beta&t=xSsEuBLtDnXmTEU-5fkZfJj24IS4eH5TiEsm4IPWnRs" style="max-width: 50%; height: auto;" alt="GIF" />
+<img src="https://private-user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc4NjM1NTUsIm5iZiI6MTcyNzg2MzI1NSwicGF0aCI6Ii83NDAzODE5MC8yNDg4ODQwMDQtYWYyMTJkYTQtODU4OC00ZDdjLTg0MDAtMTZlNTZmMjc0NmEwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAyVDEwMDA1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxYzc5OTcwYzJiMWEzNTI0ZGNkYmU4ZmE0OWVlNzdmMDNkMDg5YjFiYWQzZTExN2JlNjAyOWEwZGMwYzk1MTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FsOhhkb4NsHznuvPHm_ciUjrZlcXEl4NcpjMqV55R9I" width="600" height="auto" alt="GIF">
 </div>
 <!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
 <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">

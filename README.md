@@ -14,7 +14,7 @@
 
 📍I am Diksha from India, and I specialize in machine learning.
  I enjoy learning new technologies and exploring the world of AI and data science.
-Some of the tools and frameworks I work with are TensorFlow and Pytorch.
+Some of the tools and frameworks I work with are TensorFlow and Pytorch
 - 🔭 working on building innovative solutions with machine learning. 
 - 🌱 I’m currently deepening my skills in ML frameworks and data science.
 - 📫 Reach me on dikshaengr@gmail.com

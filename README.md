@@ -17,7 +17,6 @@
 Some of the tools and frameworks I work with are TensorFlow and Pytorch
 - 🔭 working on building innovative solutions with machine learning. 
 - 🌱 I’m currently deepening my skills in ML frameworks and data science.
-- 📫 Reach me on dikshaengr@gmail.com
 - ⚡I enjoy reading tech blogs and staying updated with latest advancements.
 
 </div>
